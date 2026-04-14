@@ -10,7 +10,7 @@ import pytz
 # ==========================================
 # 🔒 PAROOLIKAITSE
 # ==========================================
-SALAJANE_PAROOL = "kauple2024"  # MUUDA PAROOLI VAJADUSEL!
+SALAJANE_PAROOL = "kauple26"  # MUUDA PAROOLI VAJADUSEL!
 
 if "parool_sisestatud" not in st.session_state:
     st.session_state.parool_sisestatud = False
